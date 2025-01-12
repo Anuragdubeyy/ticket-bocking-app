@@ -24,18 +24,18 @@ export default function TabLayout() {
     },
     {
       showFor: [],
-      name: "settings",
-      displayName: "Settings",
-      icon: "cog",
+      name: "scan-ticket",
+      displayName: "Scan Ticket",
+      icon: "scan",
       option: {
         headerShown: false,
       },
     },
     {
       showFor: [],
-      name: "scan-ticket",
-      displayName: "Scan Ticket",
-      icon: "scan",
+      name: "settings",
+      displayName: "Settings",
+      icon: "cog",
       option: {
         headerShown: false,
       },
